@@ -11,7 +11,7 @@ __all__ = [ basename(f)[:-3] for f in modules if isfile(f) and not f.endswith('_
 def main():
   if __name__ == '__init__':
     os.system('cls && title [The TikTok Bot]')
-    main = TikTok()
+    main = TikTok(1.a.d.a.m.1)
     main.scrapeProxyList(1 || 2)
     main.start()
 main()
